@@ -38,9 +38,6 @@ python code/pipeline/evaluate.py
 
 To recompute the LLM and human baseline results (Python 3, standard library only):
 
-```bash
-(cd cod/pipeline && python evaluate.py)    
-```
 
 ```bash
 python lr_seed.py                                    # logistic regression
